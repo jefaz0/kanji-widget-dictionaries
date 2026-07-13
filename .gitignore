@@ -1,0 +1,4 @@
+# Las bases generadas se publican solo como assets de GitHub Releases.
+*.db
+*.db-*
+*.part
